@@ -3,7 +3,7 @@
 {
     "name": "Product Vendor Packaging Level",
     "summary": "Allows to mark a packaging level as vendor specific",
-    "version": "18.0.1.0.0",
+    "version": "19.0.1.0.0",
     "category": "Product",
     "author": "Camptocamp, Odoo Community Association (OCA)",
     "license": "LGPL-3",
